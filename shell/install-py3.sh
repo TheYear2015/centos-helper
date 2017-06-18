@@ -12,3 +12,4 @@ ln -s /usr/local/python/python3.6/bin/python3 /usr/bin/python3
 python3 -V
 wget https://bootstrap.pypa.io/get-pip.py
 python3 get-pip.py
+ln -s /usr/local/python/python3.6/bin/pip3 /usr/bin/pip3
